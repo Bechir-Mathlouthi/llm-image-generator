@@ -1,0 +1,15 @@
+{
+    "rules": {
+      "scripts": "folder",
+      "images": "folder",
+      "metadata": "folder",
+      "generate_images.py": "python-script",
+      "README.md": "markdown",
+      "requirements.txt": "text"
+    },
+    "settings": {
+      "tabs": "4",
+      "style": "default"
+    }
+  }
+  

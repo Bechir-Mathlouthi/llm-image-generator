@@ -1,0 +1,9 @@
+diffusers==0.19.3
+transformers==4.31.0
+torch==2.0.1
+accelerate==0.21.0
+pillow==9.5.0
+matplotlib==3.7.2
+streamlit==1.25.0
+python-dotenv==1.0.0
+huggingface-hub==0.16.4 
